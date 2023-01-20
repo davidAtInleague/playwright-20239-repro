@@ -31,3 +31,13 @@ ReferenceError: document is not defined
 =================
 
 */
+
+/*
+
+in the above it would be nice to see a stack containing
+    A.ts ->
+    B.ts ->
+    C.ts ->
+    test.spec.ts
+
+*/
