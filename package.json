@@ -1,0 +1,11 @@
+{
+  "name": "playwright-module-resolution-stack",
+  "version": "1.0.0",
+  "description": "playwright-module-resolution-bug-repro",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@playwright/test": "^1.29.2",
+    "izitoast": "^1.4.0"
+  }
+}
